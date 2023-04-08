@@ -76,7 +76,7 @@ sniffing <- sniffing %>% rename(Sniffs = Behavior)
 What if I just saved it as a new file and then did the summary on that
 
 ```{r}
-write.csv(sniffing, "/data/sniffing_clean.csv", row.names=FALSE)
+write.csv(sniffing, "/Data/sniffing_clean.csv", row.names=FALSE)
 
 sniffing_clean <- read.csv("https://raw.githubusercontent.com/nwstetson/ChimpSniffing/main/Data/sniffing_clean.csv")
 ```
