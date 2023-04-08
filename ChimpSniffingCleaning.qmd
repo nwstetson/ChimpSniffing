@@ -84,7 +84,7 @@ sniffing <- sniffing %>% rename(Sniff = Behavior)
 What if I just saved it as a new file and then did the summary on that
 
 ```{r}
-write.csv(sniffing, "sniffing_clean.csv", row.names=FALSE)
+write.csv(sniffing, "./data/sniffing_clean.csv", row.names=FALSE)
 
 sniffing_clean <- read.csv("https://raw.githubusercontent.com/nwstetson/ChimpSniffing/main/Data/sniffing_clean.csv")
 ```
@@ -102,5 +102,5 @@ slay
 Okay now I'm going to make a visualization with it
 
 ```{r}
-write.csv(sniff_summary, "/Data/sniff_summary.csv", row.names=FALSE)
+write.csv(sniff_summary, "./data/sniff_summary.csv", row.names=FALSE)
 ```
