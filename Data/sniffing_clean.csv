@@ -1,202 +1,200 @@
-"Date","Time","Individual","DOB","Age","Sex","Sniffs","Comment","ID2","Data","Location","Alone","Patrol","Drum.Hoot.","Review","Delete","Has.Location."
-2014-10-14,"15:49:31","Abrams",1999-12-01,14.87,"Male","1","","","Focal","",NA,NA,NA,NA,NA,0
-2014-10-16,"16:56:16","Wilson",1999-12-01,14.87,"Male","1","Ground","","Focal","",NA,NA,NA,NA,NA,0
-2014-10-16,"16:56:30","Wilson",1999-12-01,14.87,"Male","1","Was traveling with party but now they are out of sight","","Focal","",1,NA,NA,NA,NA,0
-2014-10-17,"12:44:05","Mitchell",1999-01-01,15.79,"Male","1","Mulligan only one within 50 m he walked ahead","","Focal","",0,NA,NA,NA,NA,0
-2014-10-18,"11:55:38","Buckner",2000-01-01,14.8,"Male","1","Alone","","Focal","",1,NA,NA,NA,NA,0
-2014-10-26,"10:16:17","Porkpie",1994-01-01,20.82,"Male","1","Walking with party","","Focal","",0,NA,NA,NA,NA,0
-2014-10-26,"11:39:16 AM","Porkpie",1994-01-01,20.82,"Male","1","Ground; traveling alone; had just buttress drummed and pant hooted","","AdLib","",1,NA,1,NA,NA,0
-2014-10-26,"13:25:14","Mitchell",1999-01-01,15.82,"Male","1","Mulligan 15m away","","Focal","",0,NA,NA,NA,NA,0
-2014-10-28,"7:27:44","Abrams",1999-12-01,14.91,"Male","1","Alone","","Focal","",1,NA,NA,NA,NA,0
-2014-10-31,"8:54:12","Wes",1997-06-01,17.42,"Male","1","Out if mucuso traveling with Richmond and hutcherson around 20m away","","Focal","",0,NA,NA,NA,NA,0
-2014-10-31,"10:43:27 AM","Wes",1997-06-01,17.42,"Male","1","Alone walking south","","AdLib","",1,NA,NA,NA,NA,0
-2014-10-31,"11:13:18 AM","Wes",1997-06-01,17.42,"Male","1","Alone","","AdLib","",1,NA,NA,NA,NA,0
-2014-11-03,"9:52:24 AM","Marlene",1950-01-01,64.84,"Female","1","Traveling with porkpie ; maybe Smelling fruits in ground","","AdLib","",0,NA,NA,NA,NA,0
-2014-11-04,"11:39:24","Wes",1997-06-01,17.43,"Male","1","In party Wayne garrison near","","Focal","",0,NA,NA,NA,NA,0
-2014-11-04,"12:05:26 PM","Wes",1997-06-01,17.43,"Male","1","Alone","","AdLib","",1,NA,NA,NA,NA,0
-2014-11-06,"11:11:04 AM","Richmond",1987-01-01,27.85,"Male","1","In a large party ; males on the ground ; Kanawa in estrus in the tree above","","AdLib","",0,NA,NA,NA,NA,0
-2014-11-10,"15:33:01","Django",1997-01-01,17.86,"Male","1","Walking with miles","","Focal","",0,NA,NA,NA,NA,0
-2014-11-13,"5:59:42 PM","Erroll",2002-01-01,12.87,"Male","1","Trunk","","AdLib","",NA,NA,NA,NA,NA,0
-2014-11-13,"6:00:04 PM","Lovano",1999-12-01,14.95,"Male","1","Trunk","","AdLib","",NA,NA,NA,NA,NA,0
-2014-11-23,"10:29:56 AM","Hicks",1997-01-01,17.89,"Male","1","Ground; traveling with porkpie Wilson and Errol","","AdLib","",0,NA,NA,NA,NA,0
-2014-11-23,"10:31:22 AM","Wilson",1999-12-01,14.98,"Male","1","Same spot that hicks smelled; traveling with Errol Wilson and porkpie","","AdLib","",0,NA,NA,NA,NA,0
-2014-11-23,"10:37:50 AM","Wilson",1999-12-01,14.98,"Male","1","Near feces","","AdLib","",NA,NA,NA,NA,NA,0
-2014-11-23,"10:39:01 AM","Wilson",1999-12-01,14.98,"Male","1","Near feces","","AdLib","",NA,NA,NA,NA,NA,0
-2014-11-23,"12:10:06 PM","Erroll",2002-01-01,12.89,"Male","1","Travel alone","","AdLib","",1,NA,NA,NA,NA,0
-2014-11-29,"1:06:13 PM","Naidu",2011-03-09,3.73,"Female","1","In proximity to 7+ chimps resting","","AdLib","",0,NA,NA,NA,NA,0
-2014-11-30,"5:03:07 PM","Cash",1993-01-01,21.91,"Male","1","Walking alone","","AdLib","",1,NA,NA,NA,NA,0
-2014-12-08,"14:40:54","Porkpie",1994-01-01,20.93,"Male","1","Ground; Evans in party but not in sight","","Focal","",0,NA,NA,NA,NA,0
-2014-12-09,"14:31:35","Herbie",1994-01-01,20.94,"Male","1","Ground ; garrison and Buckner nearby; then piloerect","","Focal","",0,NA,NA,NA,NA,0
-2014-12-09,"2:32:02 PM","Garrison",1977-01-01,37.94,"Male","1","Ground; after herbie ; Buckner and herbie around","","AdLib","",0,NA,NA,NA,NA,0
-2014-12-12,"16:52:45","Benny",2000-06-01,14.53,"Male","1","Within 20 of Richmond monk and Pizan","","Focal","",0,NA,NA,NA,NA,0
-2014-12-17,"11:00:06","Peterson",1995-01-01,19.96,"Male","1","Alone","","Focal","",1,NA,NA,NA,NA,0
-2014-12-23,"2:26:51 PM","Herbie",1994-01-01,20.97,"Male","1","Ground ; travel garrison Peterson Beecher headed south","","AdLib","",0,NA,NA,NA,NA,0
-2014-12-23,"2:27:00 PM","Garrison",1977-01-01,37.97,"Male","1","Ground ; traveling with Peterson Beecher herbie heard south","","AdLib","",0,NA,NA,NA,NA,0
-2014-12-23,"2:42:20 PM","Beecher",2001-01-01,13.97,"Female","1","Ground ; on same trail (same spot?) garrison and herbie had sniffed earlier","","AdLib","",0,NA,NA,NA,NA,0
-2014-12-30,"3:35:09 PM","Mitchell",1999-01-01,15.99,"Male","1","Ground; no one <20m","","AdLib","",NA,NA,NA,NA,NA,0
-2015-01-02,"10:49:46 AM","Rollins",1986-01-01,29,"Male","1","Traveling with Garett and Peterson","","AdLib","",0,NA,NA,NA,NA,0
-2015-01-05,"10:28:03","Benny",2000-06-01,14.6,"Male","1","Near feces ; travel 15 m behind party","","Focal","",0,NA,NA,NA,NA,0
-2015-01-10,"16:18:32","Barron",2001-03-01,13.86,"Male","1","Ground; carter had been in front but now out of sight ; travel","","Focal","",NA,NA,NA,NA,NA,0
-2015-01-13,"13:12:57","Django",1997-01-01,18.03,"Male","1","Traveling with Mweya and dexter","","Focal","",NA,NA,NA,NA,NA,0
-2015-01-13,"1:13:37 PM","Dexter",1985-01-01,30.03,"Male","1","Ground; travel with dj and Mweya; dj sniffed it first","","AdLib","",0,NA,NA,1,NA,0
-2015-01-19,"5:36:40 PM","Garrison",1977-01-01,38.05,"Male","1","Ground; on a patrol for monkeys or something","","AdLib","",NA,1,NA,1,NA,0
-2015-01-19,"5:37:45 PM","Morton",1984-01-01,31.05,"Male","1","Ground; on a patrol for monkeys or something","","AdLib","",NA,1,NA,1,NA,0
-2015-01-19,"6:18:30 PM","Benny",2000-06-01,14.63,"Male","1","Ground : with large party single file west on 6.5 west of t.5","","AdLib","",0,1,NA,1,NA,0
-2015-01-19,"6:49:29 PM","Dexter",1985-01-01,30.05,"Male","1","Patrol after hearing. IGE","","AdLib","",0,1,NA,1,NA,0
-2015-01-19,"6:49:52 PM","Garrison",1977-01-01,38.05,"Male","1","","","AdLib","",NA,NA,NA,NA,NA,0
-2015-01-19,"6:50:32 PM","Morton",1984-01-01,31.05,"Male","1","","","AdLib","",NA,NA,NA,NA,NA,0
-2015-01-24,"2:33:47 PM","Rahsaan",1987-01-01,28.06,"Male","1","Ground ; at back of patrol north of z/6.5","","AdLib","",0,1,NA,NA,NA,0
-2015-01-24,"2:45:09 PM","Carter",1990-01-01,25.06,"Male","1","Rahsaan and then carter sniffed ground; on patrol north of 6.4 on z","","AdLib","",NA,1,NA,1,NA,0
-2015-01-24,"2:51:20 PM","Ornette",1977-01-01,38.06,"Male","1","Ground; with patrol party taking moment to rest","","AdLib","",0,1,NA,NA,NA,0
-2015-01-24,"3:01:13 PM","Carter",1990-01-01,25.06,"Male","1","","","AdLib","",NA,NA,NA,NA,NA,0
-2015-01-24,"5:36:32 PM","Wayne",1996-01-01,19.06,"Male","1","Ground and trunk of tree","","AdLib","",NA,NA,NA,1,NA,0
-2015-02-05,"2:50:27 PM","Ornette",1977-01-01,38.09,"Male","1","Ground; with large party west on -1 near Ellington","","AdLib","",0,NA,NA,1,NA,0
-2015-02-06,"5:37:02 PM","Porkpie",1994-01-01,21.1,"Male","1","Ground; Evans monk beryl peewee ; heard other party to south","","AdLib","",0,NA,NA,NA,NA,0
-2015-02-07,"12:16:22","Wes",1997-06-01,17.69,"Male","1","In a party traveling alone toward calls","","Focal","",0,NA,1,1,NA,0
-2015-02-10,"3:07:52 PM","Mitchell",1999-01-01,16.11,"Male","1","Ground; tracking with southpaw And Hawkins; Atwood around","","AdLib","",0,NA,NA,1,NA,0
-2015-02-23,"8:06:31 AM","Garett",1989-01-01,26.14,"Male","1","Ground; travel just with peewee","","AdLib","",0,NA,NA,NA,NA,0
-2015-02-23,"8:11:00 AM","Garett",1989-01-01,26.14,"Male","1","Ground; travel just with peewee","","AdLib","",0,NA,NA,NA,NA,0
-2015-03-07,"5:16:10 PM","Carter",1990-01-01,25.18,"Male","1","","","AdLib","",NA,NA,NA,NA,NA,0
-2015-03-08,"4:20:09 PM","Wes",1997-06-01,17.77,"Male","1","15 min ago ; patrol","","AdLib","",0,1,NA,NA,NA,0
-2015-03-08,"4:20:28 PM","Brownface",1966-01-01,49.18,"Male","1","Patrol","","AdLib","",0,1,NA,NA,NA,0
-2015-03-09,"14:06:52","Erroll",2002-01-01,13.18,"Male","1","Near dizzy lovano and others travel large party","","Focal","",0,NA,NA,NA,NA,0
-2015-03-13,"1:03:11 PM","Benny",2000-06-01,14.78,"Male","1","Ground; within scattered party","","AdLib","",0,NA,NA,NA,NA,0
-2015-03-13,"17:59:36","Buckner",2000-01-01,15.2,"Male","1","Ground; alone","","Focal","",1,NA,NA,NA,NA,0
-2015-03-22,"13:47:43","Abrams",1999-12-01,15.3,"Male","1","Ground; near feces traveling alone","","Focal","",1,NA,NA,1,NA,0
-2015-03-26,"11:42:21","Benny",2000-06-01,14.81,"Male","1","Ground; in party of chimps feeding around m/16","","Focal","",0,NA,NA,NA,NA,0
-2015-04-29,"9:44:56 AM","Porkpie",1994-01-01,21.32,"Male","1","Ground alone; hearing calls around ( was with Barton earlier in am, passed Basie and dj left going north)","","AdLib","0.494490,30.421278",1,NA,NA,1,NA,1
-2015-04-29,"10:27:23 AM","Porkpie",1994-01-01,21.32,"Male","1","Looks like urine on dry leaves ; porkpie not in party","","AdLib","0.493448,30.422255",1,NA,NA,1,NA,1
-2015-05-04,"4:13:42 PM","Jackson",1991-01-01,24.34,"Male","1","On patrol with 6 others","","AdLib","",0,1,NA,NA,NA,0
-2015-05-17,"10:37:18","Wes",1997-06-01,17.96,"Male","1","Ground; in large party by o13","","Focal","",0,NA,NA,NA,NA,0
-2015-05-17,"10:37:46","Wes",1997-06-01,17.96,"Male","1","","","Focal","",NA,NA,NA,NA,NA,0
-2015-05-18,"2:28:31 PM","Bartok",1973-01-01,42.37,"Male","1","Ground ; on EE between 11 and 12.5 in a party on a monkey patrol (?)","","AdLib","",0,1,NA,1,NA,0
-2015-05-19,"9:13:53 AM","Mitchell",1999-01-01,16.38,"Male","1","Ground ; Hawkins and southpaw traveling","","AdLib","",0,NA,NA,NA,NA,0
-2015-05-19,"9:15:04 AM","Mitchell",1999-01-01,16.38,"Male","1","Ground again; sp and Hawkins","","AdLib","0.489449,30.434434",NA,NA,NA,1,NA,1
-2015-05-19,"10:35:32","Mitchell",1999-01-01,16.38,"Male","1","0.485651,30.434699. For the sniff","","Focal","0.485651,30.434699",NA,NA,NA,1,NA,1
-2015-05-24,"10:02:13","Evans",1996-01-01,19.39,"Male","1","Ground walking alone by c.25/10.5","","Focal","",1,NA,NA,1,NA,0
-2015-06-04,"12:02:07","Abrams",1999-12-01,15.51,"Male","1","Ground; not in party z","Halle","Focal","",1,NA,NA,NA,NA,0
-2015-06-05,"9:26:28","Lovano",1999-12-01,15.51,"Male","1","Ground; in party; 0.497081,30.417416","","Focal","0.494561,30.412133",0,NA,NA,NA,NA,1
-2015-06-16,"9:09:08","Porkpie",1994-01-01,21.45,"Male","1","Ground; in small party but 20+m away; 0.497121,30.406985","","Focal","0.497121,30.406985",0,NA,NA,NA,NA,1
-2015-06-24,"1:53:22 PM","Benny",2000-06-01,15.06,"Male","1","Party of westerns moving north (where centralers a were yeatetday)","","AdLib","0.498129,30.414933",0,NA,NA,NA,NA,1
-2015-06-26,"18:26:13","Django",1997-01-01,18.48,"Male","1","Ground; in party( 0.499077,30.417072","Sutherland","Focal","",0,NA,NA,NA,NA,0
-2015-06-28,"10:53:29","Buckner",2000-01-01,15.49,"Male","1","Ground; i. Party but no one visible and all quiet ;0.494755,30.399844","","Focal","0.494755,30.399844",0,NA,NA,NA,NA,1
-2015-06-29,"8:13:06","Mitchell",1999-01-01,16.49,"Male","1","Ground; 0.500768,30.417633 with mulligan Hawkins and southpaw","","Focal","0.500768,30.417633",0,NA,NA,NA,NA,1
-2015-07-09,"4:50:40 PM","Benny",2000-06-01,15.1,"Male","1","With while party of westerners on patrol??","","AdLib","0.512083,30.395233",0,1,NA,1,NA,1
-2015-07-15,"8:13:21","Mitchell",1999-01-01,16.53,"Male","1","Ground; 0.486533,30.435919","","Focal","0.486533,30.435919",NA,NA,NA,NA,NA,1
-2015-07-15,"8:17:19","Mitchell",1999-01-01,16.53,"Male","1","Ground; 0.485848,30.435873","","Focal","0.485848,30.435873",NA,NA,NA,NA,NA,1
-2015-07-15,"1:20:57 PM","Mitchell",1999-01-01,16.53,"Male","1","With Basie Hawkins Morton Lucy (mulligan Dexter and others around somewhere )","","AdLib","0.480753,30.431510",0,NA,NA,NA,NA,1
-2015-07-26,"4:20:01 PM","Benny",2000-06-01,15.15,"Male","1","7.5 closer to z than t.5; alone ; party to west","","AdLib","0.487759,30.390453",0,NA,NA,NA,NA,1
-2015-07-28,"13:18:26","Evans",1996-01-01,19.57,"Male","1","Ground; 0.498525,30.411458","","Focal","0.498525,30.411458",NA,NA,NA,NA,NA,1
-2015-07-30,"9:55:15 AM","Rollins",1986-01-01,29.57,"Male","1","Between 7.5 and 6.5 near t.5","","AdLib","",NA,NA,NA,1,NA,0
-2015-08-14,"7:31:21","Wes",1997-06-01,18.2,"Male","1","Not in party; 0.494411,30.410279 for first sniff","","Focal","0.494411,30.410279",1,NA,NA,1,NA,1
-2015-08-14,"7:31:47","Wes",1997-06-01,18.2,"Male","1","","","Focal","",NA,NA,NA,NA,NA,0
-2015-08-14,"7:32:09","Wes",1997-06-01,18.2,"Male","1","0.493833,30.410488 third sniff","","Focal","0.493833,30.410488",NA,NA,NA,NA,NA,1
-2015-08-14,"7:51:02","Wes",1997-06-01,18.2,"Male","1","0.493271,30.410461 (7:54 ""Two sniffs ago: "")","","Focal","0.493271,30.410461",NA,NA,NA,1,NA,1
-2015-08-14,"7:51:22","Wes",1997-06-01,18.2,"Male","1","0.492941,30.410478","","Focal","0.492941,30.410478",NA,NA,NA,NA,NA,1
-2015-08-19,"12:23:15 PM","Morton",1984-01-01,31.63,"Male","1","Old feces/urine with Morton and Hester (Hester didn't sniff it)","","AdLib","0.479764,30.427256",0,NA,NA,1,NA,1
-2015-08-19,"12:23:32 PM","Ornette",1977-01-01,38.63,"Male","1","Old feces/urine; with Morton and Hester (Hester didn't sniff it)","","AdLib","0.479764,30.427256",0,NA,NA,1,NA,1
-2015-08-19,"4:00:35 PM","Erroll",2002-01-01,13.63,"Male","1","","","AdLib","0.475185,30.427997",NA,NA,NA,NA,NA,1
-2015-08-24,"4:22:49 PM","Evans",1996-01-01,19.64,"Male","1","A cut stem; old cut by panga probably trail cutter but stem recently bent (by chimps just now?","","AdLib","0.510069,30.435480",NA,NA,NA,1,NA,1
-2015-08-24,"5:57:24 PM","Evans",1996-01-01,19.64,"Male","1","Where's party? Dizzy ahead","","AdLib","0.515071,30.430265",0,NA,NA,1,NA,1
-2015-08-25,"3:02:07 PM","Wilson",1999-12-01,15.73,"Male","1","Ground ( monk had walked ahead)","","AdLib","0.480686,30.427558",0,NA,NA,1,NA,1
-2017-10-30,"18:01:59","Peterson",1995-01-01,22.83,"Male","1","Leaf","","Focal","",NA,NA,NA,1,NA,0
-2017-10-31,"7:51:08 AM","Erroll",2002-01-01,15.83,"Male","1","With Wilson orff bartok and fleck buy Wilson keeps pant hooting","","AdLib","0.496052,30.419491",0,NA,1,NA,NA,1
-2017-10-31,"10:20:16","Hicks",1997-01-01,20.83,"Male","1","","Merrill","Focal","",0,NA,NA,NA,NA,0
-2017-11-01,"12:09:24 PM","Fleck",2006-06-01,11.42,"Male","1","Amidst party resting ; Amelia with infant had just walked by with monk","","AdLib","0.504501,30.424847",0,NA,NA,NA,NA,1
-2017-11-04,"12:56:36","Wes",1997-06-01,20.43,"Male","1","As with previous","","Focal","",0,NA,NA,NA,NA,0
-2017-11-04,"12:57:04 PM","Wes",1997-06-01,20.43,"Male","1","Leaving tree with small party","","AdLib","0.502680,30.397230",0,NA,NA,NA,NA,1
-2017-11-06,"14:49:09","Cannonball",2007-07-30,10.27,"Male","1","Ground","","Focal","",1,NA,NA,NA,NA,0
-2017-11-29,"12:18:26","Django",1997-01-01,20.91,"Male","1","Ground; in party with just bartok who went ahead ; 0.496265,30.423559","","Focal","0.496265,30.423559",0,NA,NA,NA,NA,1
-2017-12-01,"16:42:53","Django",1997-01-01,20.91,"Male","1","0.493651,30.425112 ground","","Focal","0.493651,30.425112",NA,NA,NA,NA,NA,1
-2017-12-05,"9:25:52","Wilson",1999-12-01,18.01,"Male","1","Monodora","","Focal","",NA,NA,NA,1,NA,0
-2017-12-05,"16:17:59","Porkpie",1994-01-01,23.93,"Male","1","","","Focal","",NA,NA,NA,NA,NA,0
-2017-12-06,"1:02:47 PM","Richmond",1987-01-01,30.93,"Male","1","","","AdLib","0.483770,30.410497",NA,NA,NA,NA,NA,1
-2017-12-06,"1:03:01 PM","Ellen",2006-02-01,11.84,"Female","1","","","AdLib","0.483850,30.410486",NA,NA,NA,NA,NA,1
-2017-12-06,"1:30:41 PM","Wes",1997-06-01,20.51,"Male","1","","","AdLib","0.489114,30.415385",NA,NA,NA,NA,NA,1
-2017-12-07,"4:12:18 PM","Basie",1983-01-01,34.93,"Male","1","Tree stump within big party","","AdLib","0.474596,30.408927",0,NA,NA,1,NA,1
-2017-12-09,"8:21:11","Barron",2001-03-01,16.77,"Male","1","Stepped in something and tried to wipe foot and then sniffed ground 0.499800,30.421011","","Focal","0.499800,30.421011",NA,NA,NA,1,NA,1
-2017-12-11,"11:21:49","Booker",2002-04-15,15.66,"Male","1","Ground where Leonora was sitting (1/2 swelling)","","Focal","",0,NA,NA,NA,NA,0
-2017-12-16,"5:39:41 PM","Elton",2005-01-01,12.96,"Male","1","Ground; feces; walking quickly with miles Basie Peterson carter abrams and fisher","","AdLib","0.515771,30.411942",0,NA,NA,NA,NA,1
-2017-12-17,"9:40:20 AM","Khutulun",2001-06-17,16.5,"Female","1","Ground; in party with cash Sarandon and jacki; eating Monodora","","AdLib","0.474377,30.424600",0,NA,NA,NA,NA,1
-2017-12-19,"14:55:49","Cannonball",2007-07-30,10.39,"Male","1","Ground, then rest. 0.485122,30.422295","","Focal","0.485122,30.422295",NA,NA,NA,1,NA,1
-2017-12-19,"15:03:30","Cannonball",2007-07-30,10.39,"Male","1","Not in party although chimps should be scattered nearby; ground : 0.484957,30.422247","","Focal","0.484957,30.422247",NA,NA,NA,1,NA,1
-2018-01-09,"12:38:57 PM","Fricka",2011-12-12,6.08,"Female","1","Ground ; in party","","AdLib","0.491254,30.424261",0,NA,NA,NA,NA,1
-2018-01-19,"10:45:43 AM","Septina",2012-10-01,5.3,"Female","1","In party ; ground","","AdLib","0.499382,30.406768",0,NA,NA,NA,NA,1
-2018-01-21,"11:03:59 AM","Brownface",1966-01-01,52.05,"Male","1","Monodora on ground","","AdLib","0.488271,30.425083",NA,NA,NA,1,NA,1
-2018-01-21,"11:04:18","Hicks",1997-01-01,21.05,"Male","1","Monodora on ground","","Focal","",NA,NA,NA,1,NA,0
-2018-01-23,"4:32:22 PM","Garrison",1977-01-01,41.06,"Male","1","Ground maybe fresh feces - alone with rich bergl","","AdLib","0.487788,30.402683",0,NA,NA,NA,NA,1
-2018-01-23,"16:32:55","RichBergl",2010-12-06,7.13,"Male","1","Ground maybe feces -","","Focal","",NA,NA,NA,NA,NA,0
-2018-01-23,"4:56:32 PM","Garrison",1977-01-01,41.06,"Male","1","Traveling just with rich bergl","","AdLib","0.487640,30.406031",0,NA,NA,NA,NA,1
-2018-01-30,"16:11:30","Booker",2002-04-15,15.79,"Male","1","Ground in party but walking alone 0.488426,30.427860","","Focal","0.488426,30.427860",NA,NA,NA,1,NA,1
-2018-02-02,"7:40:10","Dylan",2006-07-26,11.52,"Male","1","With heater going between parties - ground","Hester","Focal","",0,NA,NA,NA,NA,0
-2018-02-02,"7:41:55","Dylan",2006-07-26,11.52,"Male","1","0.489748,30.428767 ground with Hester out of party","Hester","Focal","0.489748,30.428767",0,NA,NA,NA,NA,1
-2018-02-05,"5:04:34 PM","Richmond",1987-01-01,31.1,"Male","1","On big party; ground ; maybe looking for red colobus","","AdLib","0.476206,30.405622",0,NA,NA,1,NA,1
-2018-02-20,"4:30:43 PM","Nelson",2007-01-01,11.14,"Male","1","Ground ; in party of central sw of m/11","","AdLib","0.482526,30.409870",0,NA,NA,1,NA,1
-2018-02-20,"4:31:16 PM","Puccini",2008-05-01,9.81,"Male","1","Ground among central party","","AdLib","0.482415,30.409534",0,NA,NA,NA,NA,1
-2018-02-20,"4:36:40 PM","Hicks",1997-01-01,21.14,"Male","1","Branch in ground ;","","AdLib","0.482415,30.409534",NA,NA,NA,NA,NA,1
-2018-02-26,"1:50:07 PM","Garett",1989-01-01,29.15,"Male","1","Ground with bartok Marlene porkpie Django another party ahead","","AdLib","0.493312,30.415730",0,NA,NA,NA,NA,1
-2018-03-01,"13:07:53","Mitchell",1999-01-01,19.16,"Male","1","Ground in party 0.480454,30.413876","","Focal","0.480454,30.413876",0,NA,NA,NA,NA,1
-2018-03-03,"4:14:52 PM","Django",1997-01-01,21.17,"Male","1","Ground; traveling alone with porkpie","","AdLib","0.483263,30.416437",0,NA,NA,NA,NA,1
-2018-03-03,"16:17:57","Porkpie",1994-01-01,24.17,"Male","1","Ground; North of j/11 with Django who sniffed another spot 5 min ago; 0.483579,30.416299","","Focal","0.483579,30.416299",0,NA,NA,1,NA,1
-2018-03-04,"17:24:57","Dylan",2006-07-26,11.61,"Male","1","Ground in party 0.487567,30.414227","","Focal","0.487567,30.414227",0,NA,NA,NA,NA,1
-2018-03-05,"9:24:43","YoYo",2006-01-01,12.17,"Male","1","Ground and swat at leaves","","Focal","",NA,NA,NA,1,NA,0
-2018-03-08,"13:51:16","Fricka",2011-12-12,6.24,"Female","1","Ground around warburgia; maybe sniffing warburgia","","Focal","",NA,NA,NA,1,NA,0
-2018-03-12,"14:12:31","Porkpie",1994-01-01,24.19,"Male","1","Ground in party ; rain ; vocalized then fed 0.477607,30.417520","","Focal","0.477607,30.417520",0,NA,1,NA,NA,1
-2018-03-13,"4:40:21 PM","EttaJames",2011-03-09,7.01,"Female","1","Ground walking with damien between parties","","AdLib","0.490937,30.398463",0,NA,NA,NA,NA,1
-2018-03-20,"2:37:09 PM","Porkpie",1994-01-01,24.21,"Male","1","Ground ; urine and feces; in party following Fitzgerald in estrus","","AdLib","0.483138,30.426679",0,NA,NA,1,NA,1
-2018-03-21,"5:12:29 PM","Bosko",2003-01-01,15.22,"Male","1","Ground in party; feeding warburgia","","AdLib","0.477960,30.410196",0,NA,NA,1,NA,1
-2018-03-31,"18:03:21","Lovano",1999-12-01,18.33,"Male","1","In party 0.486897,30.409634","","Focal","0.486897,30.409634",0,NA,NA,NA,NA,1
-2018-04-06,"1:43:15 PM","Damien",2006-07-01,11.76,"Male","1","","","AdLib","0.505809,30.392832",NA,NA,NA,NA,NA,1
-2018-04-06,"13:44:17","BillyBragg",2005-01-01,13.26,"Male","1","Ground after damien; party scattered 0.505809,30.392832","","Focal","0.505809,30.392832",NA,NA,NA,1,NA,1
-2018-04-19,"2:42:55 PM","Richmond",1987-01-01,31.3,"Male","1","Ground alone then branch","","AdLib","0.483577,30.403019",1,NA,NA,NA,NA,1
-2018-04-26,"2:05:00 PM","Cannonball",2007-07-30,10.74,"Male","1","Ground walking with party","","AdLib","0.484340,30.414481",0,NA,NA,NA,NA,1
-2018-05-02,"6:46:42 PM","Abrams",1999-12-01,18.42,"Male","1","Ground 12:55","","AdLib","0.482902,30.416957",NA,NA,NA,NA,NA,1
-2018-06-03,"12:14:55","Abrams",1999-12-01,18.51,"Male","1","0.489667,30.406178 ground","","Focal","0.489667,30.406178",NA,NA,NA,NA,NA,1
-2018-06-03,"12:20:27 PM","Margaret",2006-07-01,11.92,"Female","1","","","AdLib","0.488872,30.406209",NA,NA,NA,NA,NA,1
-2018-06-07,"10:38:15 AM","Elvira",2012-02-13,6.31,"Female","1","Trunk if small tree","","AdLib","0.508629,30.390750",NA,NA,NA,1,NA,1
-2019-01-06,"12:23:47 PM","Holland",2010-07-20,8.47,"Male","1","Ground","","AdLib","0.499149,30.406296",NA,NA,NA,NA,NA,1
-2019-06-02,"2:35:10 PM","Wes",1997-06-01,22,"Male","1","Ground wge audio toward centraers; garrison Rollins’s was hurcherson entwiga others va","","AdLib","0.428414,30.409385",0,1,NA,1,NA,1
-2019-06-04,"5:15:23 PM","Wes",1997-06-01,22.01,"Male","1","Ground walking alone party scattered","","AdLib","0.449251,30.392779",1,NA,NA,NA,NA,1
-2019-06-08,"17:58:08","BillyBragg",2005-01-01,14.43,"Male","1","00.48949,30.40866 ground walking with hutcherson others scattered","","Focal","0.48949,30.40866",0,NA,NA,NA,NA,1
-2019-06-13,"12:39:28 PM","Garett",1989-01-01,30.44,"Male","1","Ground scattered feeding uvariopsis brownface carter Jackson. Jolie 00.49036,30.40693","","AdLib","0.49036,30.40693",0,NA,NA,NA,NA,1
-2019-06-14,"8:12:56 AM","Garett",1989-01-01,30.45,"Male","1","Ground; Emmy Lou had passed—cycling though 0/1","","AdLib","00.49249,30.40743",0,NA,NA,1,NA,1
-2019-06-14,"12:53:14 PM","Rollins",1986-01-01,33.45,"Male","1","And then joya sniff ground p.5/5.5 moving east just Rollins damien Etta and joya","","AdLib","00.49328,30.40470",0,NA,NA,NA,NA,1
-2019-06-14,"1:00:03 PM","Rollins",1986-01-01,33.45,"Male","1","Branch of tree near mucuso —just resting : sniffed twice","","AdLib","00.49320,30.40573",NA,NA,NA,1,NA,1
-2019-06-14,"2:27:13 PM","EttaJames",2011-03-09,8.27,"Female","1","Branches ; central had been last night","","AdLib","00.49284,30.40711",NA,NA,NA,1,NA,1
-2019-07-25,"3:10:52 PM","Holland",2010-07-20,9.01,"Male","1","Ground party with Wayne and Buckner","","AdLib","0.494143,30.398868",0,NA,NA,NA,NA,1
-2019-07-28,"10:53:12","Cannonball",2007-07-30,11.99,"Male","1","Ground 0.491175,30.423073 Jackson walking ahead","","Focal","0.491175,30.423073",0,NA,NA,NA,NA,1
-2019-09-18,"5:27:25 PM","YoYo",2006-01-01,13.71,"Male","1","Ground ; with party of western males moving south from L/4.5","","AdLib","0.495013,30.412825",NA,NA,NA,NA,NA,1
-2019-09-20,"16:57:11","YoYo",2006-01-01,13.72,"Male","1","0.489188,30.411808 sniff ground; Buckner an Holland nearby other party had gone head","","Focal","0.489188,30.411808",0,NA,NA,NA,NA,1
-2019-09-22,"2:10:15 PM","YoYo",2006-01-01,13.72,"Male","1","Ground on within patrol I/13","","AdLib","0.479069,30.418462",NA,1,NA,NA,NA,1
-2019-09-26,"5:03:21 PM","Cash",1993-01-01,26.73,"Male","1","Ground walking with party","","AdLib","0.474032,30.438188",0,NA,NA,NA,NA,1
-2019-10-15,"12:24:34","Dylan",2006-07-26,13.22,"Male","1","Ground alone with only fisher behind 0.495101,30.424955","","Focal","0.495101,30.424955",NA,NA,NA,NA,NA,1
-2019-10-24,"10:57:27","Evans",1996-01-01,23.81,"Male","1","Ground looks like something had rooted around 0.491292,30.428202","","Focal","0.491292,30.428202",NA,NA,NA,NA,NA,1
-2019-10-26,"16:27:26","Cannonball",2007-07-30,12.24,"Male","1","Ground 0.488014,30.423045. Alone","","Focal","0.488014,30.423045",1,NA,NA,NA,NA,1
-2019-10-26,"16:31:50","Cannonball",2007-07-30,12.24,"Male","1","Alone : ground 0.487480,30.423170","","Focal","0.487480,30.423170",1,NA,NA,NA,NA,1
-2019-11-01,"12:06:33","Ava",2009-06-10,10.39,"Female","1","Dead infant Huxley","","Focal","",NA,NA,NA,1,NA,0
-2021-06-19,"10:56:42 AM","Dylan",2006-07-26,14.9,"Male","1","Branch 0.483023 N, 30.434435 E","","Focal","0.483023 N, 30.434435 E",NA,NA,NA,NA,NA,1
-2021-06-23,"5:32:22 PM","Carter",1990-01-01,31.47,"Male","1","Leaves; after rushing over toward chimp calls; eagle flew away (Sam and Izzi) ; Jarman and Eubanks and cannonball looking up into tree; others sniffing ground","","AdLib","0.483575,30.415448",0,NA,1,1,NA,1
-2021-06-27,"10:50:09 AM","Nadine",2013-10-17,7.69,"Unknown","1","Juveniles female as traveling to me east ;","","AdLib","0.484979,30.428082",NA,NA,NA,1,NA,1
-2021-06-28,"5:31:08 PM","Damien",2006-07-01,14.99,"Male","1","0.492543, 30.397262 climbed down tree ; Rollins was ahead… is he in sight?","","Focal","0.492543, 30.397262",NA,NA,NA,1,NA,1
-2021-06-28,"6:14:26 PM","Holland",2010-07-20,10.94,"Male","1","In party with Buckner and Damien ; Holland eating Pterygota from ground","","AdLib","0.492866,30.398593",0,NA,NA,1,NA,1
-2021-07-03,"4:37:51 PM","Porkpie",1994-01-01,27.5,"Male","1","Root / log; traveling alone 0.489584, 30.427752","","Focal","0.489584, 30.427752",1,NA,NA,NA,NA,1
-2021-07-03,"4:39:00 PM","Porkpie",1994-01-01,27.5,"Male","1","0.489492, 30.427588","","Focal","0.489492, 30.427588",1,NA,NA,NA,NA,1
-2021-07-05,"11:47:25 AM","Bach",2008-12-01,12.59,"Male","1","Fresh chino dung and urine","","AdLib","0.484076,30.414429",NA,NA,NA,1,NA,1
-2021-07-08,"4:26:09 PM","Bach",2008-12-01,12.6,"Male","1","Chimp feces 0.477296, 30.411904","","Focal","0.477296, 30.411904",NA,NA,NA,1,NA,1
-2021-07-16,"5:11:03 PM","Larson",2007-11-01,13.71,"Male","1","0.492716, 30.391651","","Focal","0.492716, 30.391651",NA,NA,NA,NA,NA,1
-2021-07-17,"5:15:23 PM","Wes",1997-06-01,24.13,"Male","1","0.485238, 30.411718","","Focal","0.485238, 30.411718",NA,NA,NA,NA,NA,1
-2021-07-18,"10:45:11 AM","Wes",1997-06-01,24.13,"Male","1","0.485964, 30.402979 in scattered party no one in view","","Focal","0.485964, 30.402979",NA,NA,NA,1,NA,1
-2021-07-20,"11:48:11 AM","Carter",1990-01-01,31.55,"Male","1","Ground where Porkpie died","","AdLib","0.487945,30.429122",0,NA,NA,1,NA,1
-2021-07-20,"11:48:27 AM","Wilson",1999-12-01,21.63,"Male","1","0.487897, 30.429227 where Porkpie died","","Focal","0.487897, 30.429227",0,NA,NA,1,1,1
-2021-07-24,"5:18:02 PM","Elton",2005-01-01,16.56,"Male","1","Leaving party 0.493917, 30.418253","","Focal","0.493917, 30.418253",NA,NA,NA,NA,1,1
-2021-07-27,"3:20:31 PM","Bosko",2003-01-01,18.57,"Male","1","Leaves from whence amelia2 was standing in tree","","Focal","",NA,NA,NA,NA,NA,0
-2021-08-07,"9:27:00 AM","Dylan",2006-07-26,15.03,"Male","1","0.487495 N, 30.432131 E","","Focal","0.487495, 30.432131",NA,NA,NA,NA,NA,1
-2021-08-09,"1:22:42 PM","Cannonball",2007-07-30,14.03,"Male","1","Moved north with Garett Aretha Powell and lucrezia (?)","","AdLib","0.504705,30.428865",0,NA,NA,NA,NA,1
-2021-08-12,"1:13:39 PM","Larson",2007-11-01,13.78,"Male","1","0.480189, 30.409530 in party but not western party he was with still east","","Focal","0.480189, 30.409530",0,NA,NA,NA,NA,1
-2021-08-13,"4:33:03 PM","Joya",2011-08-15,10,"Female","1","In party of Yoyo Wayne Hutcherson Murray senta billy Bragg Anna Sanger Freddie and youths mvoing west after patrol to h/6-g.5/5","","AdLib","0.493115,30.414982",0,NA,NA,1,NA,1
-2021-08-16,"10:44:34 AM","Carter",1990-01-01,31.62,"Male","1","Central patrol","","AdLib","0.489016,30.422093",NA,1,NA,NA,NA,1
-2021-08-16,"10:45:56 AM","Brownface",1966-01-01,55.62,"Male","1","","Miles","AdLib","0.488932,30.421825",0,NA,NA,1,NA,1
-2021-08-16,"11:01:24 AM","Morton",1984-01-01,37.62,"Male","1","","","AdLib","0.489546,30.419677",NA,NA,NA,NA,NA,1
-2021-08-16,"12:05:22 PM","Brownface",1966-01-01,55.62,"Male","1","Patrol west","","AdLib","0.487574,30.417014",0,1,NA,NA,NA,1
-2021-08-18,"10:52:40 AM","Damien",2006-07-01,15.13,"Male","1","Branch","","AdLib","0.485612,30.388864",NA,NA,NA,1,NA,1
-2021-08-19,"4:43:35 PM","YoYo",2006-01-01,15.63,"Male","1","","","AdLib","0.495416,30.418483",NA,NA,NA,NA,NA,1
+"Date","Time","Individual","DOB","Age","Sex","Sniff","Comment","ID2","Data","Location","Alone","Patrol","Drum.Hoot.","Review","Has.Location."
+2014-10-14,"15:49:31","Abrams",1999-12-01,14.87,"Male","1","","","Focal","",NA,NA,NA,NA,0
+2014-10-16,"16:56:16","Wilson",1999-12-01,14.87,"Male","1","Ground","","Focal","",NA,NA,NA,NA,0
+2014-10-16,"16:56:30","Wilson",1999-12-01,14.87,"Male","1","Was traveling with party but now they are out of sight","","Focal","",1,NA,NA,NA,0
+2014-10-17,"12:44:05","Mitchell",1999-01-01,15.79,"Male","1","Mulligan only one within 50 m he walked ahead","","Focal","",0,NA,NA,NA,0
+2014-10-18,"11:55:38","Buckner",2000-01-01,14.8,"Male","1","Alone","","Focal","",1,NA,NA,NA,0
+2014-10-26,"10:16:17","Porkpie",1994-01-01,20.82,"Male","1","Walking with party","","Focal","",0,NA,NA,NA,0
+2014-10-26,"11:39:16 AM","Porkpie",1994-01-01,20.82,"Male","1","Ground; traveling alone; had just buttress drummed and pant hooted","","AdLib","",1,NA,1,NA,0
+2014-10-26,"13:25:14","Mitchell",1999-01-01,15.82,"Male","1","Mulligan 15m away","","Focal","",0,NA,NA,NA,0
+2014-10-28,"7:27:44","Abrams",1999-12-01,14.91,"Male","1","Alone","","Focal","",1,NA,NA,NA,0
+2014-10-31,"8:54:12","Wes",1997-06-01,17.42,"Male","1","Out if mucuso traveling with Richmond and hutcherson around 20m away","","Focal","",0,NA,NA,NA,0
+2014-10-31,"10:43:27 AM","Wes",1997-06-01,17.42,"Male","1","Alone walking south","","AdLib","",1,NA,NA,NA,0
+2014-10-31,"11:13:18 AM","Wes",1997-06-01,17.42,"Male","1","Alone","","AdLib","",1,NA,NA,NA,0
+2014-11-03,"9:52:24 AM","Marlene",1950-01-01,64.84,"Female","1","Traveling with porkpie ; maybe Smelling fruits in ground","","AdLib","",0,NA,NA,NA,0
+2014-11-04,"11:39:24","Wes",1997-06-01,17.43,"Male","1","In party Wayne garrison near","","Focal","",0,NA,NA,NA,0
+2014-11-04,"12:05:26 PM","Wes",1997-06-01,17.43,"Male","1","Alone","","AdLib","",1,NA,NA,NA,0
+2014-11-06,"11:11:04 AM","Richmond",1987-01-01,27.85,"Male","1","In a large party ; males on the ground ; Kanawa in estrus in the tree above","","AdLib","",0,NA,NA,NA,0
+2014-11-10,"15:33:01","Django",1997-01-01,17.86,"Male","1","Walking with miles","","Focal","",0,NA,NA,NA,0
+2014-11-13,"5:59:42 PM","Erroll",2002-01-01,12.87,"Male","1","Trunk","","AdLib","",NA,NA,NA,NA,0
+2014-11-13,"6:00:04 PM","Lovano",1999-12-01,14.95,"Male","1","Trunk","","AdLib","",NA,NA,NA,NA,0
+2014-11-23,"10:29:56 AM","Hicks",1997-01-01,17.89,"Male","1","Ground; traveling with porkpie Wilson and Errol","","AdLib","",0,NA,NA,NA,0
+2014-11-23,"10:31:22 AM","Wilson",1999-12-01,14.98,"Male","1","Same spot that hicks smelled; traveling with Errol Wilson and porkpie","","AdLib","",0,NA,NA,NA,0
+2014-11-23,"10:37:50 AM","Wilson",1999-12-01,14.98,"Male","1","Near feces","","AdLib","",NA,NA,NA,NA,0
+2014-11-23,"10:39:01 AM","Wilson",1999-12-01,14.98,"Male","1","Near feces","","AdLib","",NA,NA,NA,NA,0
+2014-11-23,"12:10:06 PM","Erroll",2002-01-01,12.89,"Male","1","Travel alone","","AdLib","",1,NA,NA,NA,0
+2014-11-29,"1:06:13 PM","Naidu",2011-03-09,3.73,"Female","1","In proximity to 7+ chimps resting","","AdLib","",0,NA,NA,NA,0
+2014-11-30,"5:03:07 PM","Cash",1993-01-01,21.91,"Male","1","Walking alone","","AdLib","",1,NA,NA,NA,0
+2014-12-08,"14:40:54","Porkpie",1994-01-01,20.93,"Male","1","Ground; Evans in party but not in sight","","Focal","",0,NA,NA,NA,0
+2014-12-09,"14:31:35","Herbie",1994-01-01,20.94,"Male","1","Ground ; garrison and Buckner nearby; then piloerect","","Focal","",0,NA,NA,NA,0
+2014-12-09,"2:32:02 PM","Garrison",1977-01-01,37.94,"Male","1","Ground; after herbie ; Buckner and herbie around","","AdLib","",0,NA,NA,NA,0
+2014-12-12,"16:52:45","Benny",2000-06-01,14.53,"Male","1","Within 20 of Richmond monk and Pizan","","Focal","",0,NA,NA,NA,0
+2014-12-17,"11:00:06","Peterson",1995-01-01,19.96,"Male","1","Alone","","Focal","",1,NA,NA,NA,0
+2014-12-23,"2:26:51 PM","Herbie",1994-01-01,20.97,"Male","1","Ground ; travel garrison Peterson Beecher headed south","","AdLib","",0,NA,NA,NA,0
+2014-12-23,"2:27:00 PM","Garrison",1977-01-01,37.97,"Male","1","Ground ; traveling with Peterson Beecher herbie heard south","","AdLib","",0,NA,NA,NA,0
+2014-12-23,"2:42:20 PM","Beecher",2001-01-01,13.97,"Female","1","Ground ; on same trail (same spot?) garrison and herbie had sniffed earlier","","AdLib","",0,NA,NA,NA,0
+2014-12-30,"3:35:09 PM","Mitchell",1999-01-01,15.99,"Male","1","Ground; no one <20m","","AdLib","",NA,NA,NA,NA,0
+2015-01-02,"10:49:46 AM","Rollins",1986-01-01,29,"Male","1","Traveling with Garett and Peterson","","AdLib","",0,NA,NA,NA,0
+2015-01-05,"10:28:03","Benny",2000-06-01,14.6,"Male","1","Near feces ; travel 15 m behind party","","Focal","",0,NA,NA,NA,0
+2015-01-10,"16:18:32","Barron",2001-03-01,13.86,"Male","1","Ground; carter had been in front but now out of sight ; travel","","Focal","",NA,NA,NA,NA,0
+2015-01-13,"13:12:57","Django",1997-01-01,18.03,"Male","1","Traveling with Mweya and dexter","","Focal","",NA,NA,NA,NA,0
+2015-01-13,"1:13:37 PM","Dexter",1985-01-01,30.03,"Male","1","Ground; travel with dj and Mweya; dj sniffed it first","","AdLib","",0,NA,NA,1,0
+2015-01-19,"5:36:40 PM","Garrison",1977-01-01,38.05,"Male","1","Ground; on a patrol for monkeys or something","","AdLib","",NA,1,NA,1,0
+2015-01-19,"5:37:45 PM","Morton",1984-01-01,31.05,"Male","1","Ground; on a patrol for monkeys or something","","AdLib","",NA,1,NA,1,0
+2015-01-19,"6:18:30 PM","Benny",2000-06-01,14.63,"Male","1","Ground : with large party single file west on 6.5 west of t.5","","AdLib","",0,1,NA,1,0
+2015-01-19,"6:49:29 PM","Dexter",1985-01-01,30.05,"Male","1","Patrol after hearing. IGE","","AdLib","",0,1,NA,1,0
+2015-01-19,"6:49:52 PM","Garrison",1977-01-01,38.05,"Male","1","","","AdLib","",NA,NA,NA,NA,0
+2015-01-19,"6:50:32 PM","Morton",1984-01-01,31.05,"Male","1","","","AdLib","",NA,NA,NA,NA,0
+2015-01-24,"2:33:47 PM","Rahsaan",1987-01-01,28.06,"Male","1","Ground ; at back of patrol north of z/6.5","","AdLib","",0,1,NA,NA,0
+2015-01-24,"2:45:09 PM","Carter",1990-01-01,25.06,"Male","1","Rahsaan and then carter sniffed ground; on patrol north of 6.4 on z","","AdLib","",NA,1,NA,1,0
+2015-01-24,"2:51:20 PM","Ornette",1977-01-01,38.06,"Male","1","Ground; with patrol party taking moment to rest","","AdLib","",0,1,NA,NA,0
+2015-01-24,"3:01:13 PM","Carter",1990-01-01,25.06,"Male","1","","","AdLib","",NA,NA,NA,NA,0
+2015-01-24,"5:36:32 PM","Wayne",1996-01-01,19.06,"Male","1","Ground and trunk of tree","","AdLib","",NA,NA,NA,1,0
+2015-02-05,"2:50:27 PM","Ornette",1977-01-01,38.09,"Male","1","Ground; with large party west on -1 near Ellington","","AdLib","",0,NA,NA,1,0
+2015-02-06,"5:37:02 PM","Porkpie",1994-01-01,21.1,"Male","1","Ground; Evans monk beryl peewee ; heard other party to south","","AdLib","",0,NA,NA,NA,0
+2015-02-07,"12:16:22","Wes",1997-06-01,17.69,"Male","1","In a party traveling alone toward calls","","Focal","",0,NA,1,1,0
+2015-02-10,"3:07:52 PM","Mitchell",1999-01-01,16.11,"Male","1","Ground; tracking with southpaw And Hawkins; Atwood around","","AdLib","",0,NA,NA,1,0
+2015-02-23,"8:06:31 AM","Garett",1989-01-01,26.14,"Male","1","Ground; travel just with peewee","","AdLib","",0,NA,NA,NA,0
+2015-02-23,"8:11:00 AM","Garett",1989-01-01,26.14,"Male","1","Ground; travel just with peewee","","AdLib","",0,NA,NA,NA,0
+2015-03-07,"5:16:10 PM","Carter",1990-01-01,25.18,"Male","1","","","AdLib","",NA,NA,NA,NA,0
+2015-03-08,"4:20:09 PM","Wes",1997-06-01,17.77,"Male","1","15 min ago ; patrol","","AdLib","",0,1,NA,NA,0
+2015-03-08,"4:20:28 PM","Brownface",1966-01-01,49.18,"Male","1","Patrol","","AdLib","",0,1,NA,NA,0
+2015-03-09,"14:06:52","Erroll",2002-01-01,13.18,"Male","1","Near dizzy lovano and others travel large party","","Focal","",0,NA,NA,NA,0
+2015-03-13,"1:03:11 PM","Benny",2000-06-01,14.78,"Male","1","Ground; within scattered party","","AdLib","",0,NA,NA,NA,0
+2015-03-13,"17:59:36","Buckner",2000-01-01,15.2,"Male","1","Ground; alone","","Focal","",1,NA,NA,NA,0
+2015-03-22,"13:47:43","Abrams",1999-12-01,15.3,"Male","1","Ground; near feces traveling alone","","Focal","",1,NA,NA,1,0
+2015-03-26,"11:42:21","Benny",2000-06-01,14.81,"Male","1","Ground; in party of chimps feeding around m/16","","Focal","",0,NA,NA,NA,0
+2015-04-29,"9:44:56 AM","Porkpie",1994-01-01,21.32,"Male","1","Ground alone; hearing calls around ( was with Barton earlier in am, passed Basie and dj left going north)","","AdLib","0.494490,30.421278",1,NA,NA,1,1
+2015-04-29,"10:27:23 AM","Porkpie",1994-01-01,21.32,"Male","1","Looks like urine on dry leaves ; porkpie not in party","","AdLib","0.493448,30.422255",1,NA,NA,1,1
+2015-05-04,"4:13:42 PM","Jackson",1991-01-01,24.34,"Male","1","On patrol with 6 others","","AdLib","",0,1,NA,NA,0
+2015-05-17,"10:37:18","Wes",1997-06-01,17.96,"Male","1","Ground; in large party by o13","","Focal","",0,NA,NA,NA,0
+2015-05-17,"10:37:46","Wes",1997-06-01,17.96,"Male","1","","","Focal","",NA,NA,NA,NA,0
+2015-05-18,"2:28:31 PM","Bartok",1973-01-01,42.37,"Male","1","Ground ; on EE between 11 and 12.5 in a party on a monkey patrol (?)","","AdLib","",0,1,NA,1,0
+2015-05-19,"9:13:53 AM","Mitchell",1999-01-01,16.38,"Male","1","Ground ; Hawkins and southpaw traveling","","AdLib","",0,NA,NA,NA,0
+2015-05-19,"9:15:04 AM","Mitchell",1999-01-01,16.38,"Male","1","Ground again; sp and Hawkins","","AdLib","0.489449,30.434434",NA,NA,NA,1,1
+2015-05-19,"10:35:32","Mitchell",1999-01-01,16.38,"Male","1","0.485651,30.434699. For the sniff","","Focal","0.485651,30.434699",NA,NA,NA,1,1
+2015-05-24,"10:02:13","Evans",1996-01-01,19.39,"Male","1","Ground walking alone by c.25/10.5","","Focal","",1,NA,NA,1,0
+2015-06-04,"12:02:07","Abrams",1999-12-01,15.51,"Male","1","Ground; not in party z","Halle","Focal","",1,NA,NA,NA,0
+2015-06-05,"9:26:28","Lovano",1999-12-01,15.51,"Male","1","Ground; in party; 0.497081,30.417416","","Focal","0.494561,30.412133",0,NA,NA,NA,1
+2015-06-16,"9:09:08","Porkpie",1994-01-01,21.45,"Male","1","Ground; in small party but 20+m away; 0.497121,30.406985","","Focal","0.497121,30.406985",0,NA,NA,NA,1
+2015-06-24,"1:53:22 PM","Benny",2000-06-01,15.06,"Male","1","Party of westerns moving north (where centralers a were yeatetday)","","AdLib","0.498129,30.414933",0,NA,NA,NA,1
+2015-06-26,"18:26:13","Django",1997-01-01,18.48,"Male","1","Ground; in party( 0.499077,30.417072","Sutherland","Focal","",0,NA,NA,NA,0
+2015-06-28,"10:53:29","Buckner",2000-01-01,15.49,"Male","1","Ground; i. Party but no one visible and all quiet ;0.494755,30.399844","","Focal","0.494755,30.399844",0,NA,NA,NA,1
+2015-06-29,"8:13:06","Mitchell",1999-01-01,16.49,"Male","1","Ground; 0.500768,30.417633 with mulligan Hawkins and southpaw","","Focal","0.500768,30.417633",0,NA,NA,NA,1
+2015-07-09,"4:50:40 PM","Benny",2000-06-01,15.1,"Male","1","With while party of westerners on patrol??","","AdLib","0.512083,30.395233",0,1,NA,1,1
+2015-07-15,"8:13:21","Mitchell",1999-01-01,16.53,"Male","1","Ground; 0.486533,30.435919","","Focal","0.486533,30.435919",NA,NA,NA,NA,1
+2015-07-15,"8:17:19","Mitchell",1999-01-01,16.53,"Male","1","Ground; 0.485848,30.435873","","Focal","0.485848,30.435873",NA,NA,NA,NA,1
+2015-07-15,"1:20:57 PM","Mitchell",1999-01-01,16.53,"Male","1","With Basie Hawkins Morton Lucy (mulligan Dexter and others around somewhere )","","AdLib","0.480753,30.431510",0,NA,NA,NA,1
+2015-07-26,"4:20:01 PM","Benny",2000-06-01,15.15,"Male","1","7.5 closer to z than t.5; alone ; party to west","","AdLib","0.487759,30.390453",0,NA,NA,NA,1
+2015-07-28,"13:18:26","Evans",1996-01-01,19.57,"Male","1","Ground; 0.498525,30.411458","","Focal","0.498525,30.411458",NA,NA,NA,NA,1
+2015-07-30,"9:55:15 AM","Rollins",1986-01-01,29.57,"Male","1","Between 7.5 and 6.5 near t.5","","AdLib","",NA,NA,NA,1,0
+2015-08-14,"7:31:21","Wes",1997-06-01,18.2,"Male","1","Not in party; 0.494411,30.410279 for first sniff","","Focal","0.494411,30.410279",1,NA,NA,1,1
+2015-08-14,"7:31:47","Wes",1997-06-01,18.2,"Male","1","","","Focal","",NA,NA,NA,NA,0
+2015-08-14,"7:32:09","Wes",1997-06-01,18.2,"Male","1","0.493833,30.410488 third sniff","","Focal","0.493833,30.410488",NA,NA,NA,NA,1
+2015-08-14,"7:51:02","Wes",1997-06-01,18.2,"Male","1","0.493271,30.410461 (7:54 ""Two sniffs ago: "")","","Focal","0.493271,30.410461",NA,NA,NA,1,1
+2015-08-14,"7:51:22","Wes",1997-06-01,18.2,"Male","1","0.492941,30.410478","","Focal","0.492941,30.410478",NA,NA,NA,NA,1
+2015-08-19,"12:23:15 PM","Morton",1984-01-01,31.63,"Male","1","Old feces/urine with Morton and Hester (Hester didn't sniff it)","","AdLib","0.479764,30.427256",0,NA,NA,1,1
+2015-08-19,"12:23:32 PM","Ornette",1977-01-01,38.63,"Male","1","Old feces/urine; with Morton and Hester (Hester didn't sniff it)","","AdLib","0.479764,30.427256",0,NA,NA,1,1
+2015-08-19,"4:00:35 PM","Erroll",2002-01-01,13.63,"Male","1","","","AdLib","0.475185,30.427997",NA,NA,NA,NA,1
+2015-08-24,"4:22:49 PM","Evans",1996-01-01,19.64,"Male","1","A cut stem; old cut by panga probably trail cutter but stem recently bent (by chimps just now?","","AdLib","0.510069,30.435480",NA,NA,NA,1,1
+2015-08-24,"5:57:24 PM","Evans",1996-01-01,19.64,"Male","1","Where's party? Dizzy ahead","","AdLib","0.515071,30.430265",0,NA,NA,1,1
+2015-08-25,"3:02:07 PM","Wilson",1999-12-01,15.73,"Male","1","Ground ( monk had walked ahead)","","AdLib","0.480686,30.427558",0,NA,NA,1,1
+2017-10-30,"18:01:59","Peterson",1995-01-01,22.83,"Male","1","Leaf","","Focal","",NA,NA,NA,1,0
+2017-10-31,"7:51:08 AM","Erroll",2002-01-01,15.83,"Male","1","With Wilson orff bartok and fleck buy Wilson keeps pant hooting","","AdLib","0.496052,30.419491",0,NA,1,NA,1
+2017-10-31,"10:20:16","Hicks",1997-01-01,20.83,"Male","1","","Merrill","Focal","",0,NA,NA,NA,0
+2017-11-01,"12:09:24 PM","Fleck",2006-06-01,11.42,"Male","1","Amidst party resting ; Amelia with infant had just walked by with monk","","AdLib","0.504501,30.424847",0,NA,NA,NA,1
+2017-11-04,"12:56:36","Wes",1997-06-01,20.43,"Male","1","As with previous","","Focal","",0,NA,NA,NA,0
+2017-11-04,"12:57:04 PM","Wes",1997-06-01,20.43,"Male","1","Leaving tree with small party","","AdLib","0.502680,30.397230",0,NA,NA,NA,1
+2017-11-06,"14:49:09","Cannonball",2007-07-30,10.27,"Male","1","Ground","","Focal","",1,NA,NA,NA,0
+2017-11-29,"12:18:26","Django",1997-01-01,20.91,"Male","1","Ground; in party with just bartok who went ahead ; 0.496265,30.423559","","Focal","0.496265,30.423559",0,NA,NA,NA,1
+2017-12-01,"16:42:53","Django",1997-01-01,20.91,"Male","1","0.493651,30.425112 ground","","Focal","0.493651,30.425112",NA,NA,NA,NA,1
+2017-12-05,"9:25:52","Wilson",1999-12-01,18.01,"Male","1","Monodora","","Focal","",NA,NA,NA,1,0
+2017-12-05,"16:17:59","Porkpie",1994-01-01,23.93,"Male","1","","","Focal","",NA,NA,NA,NA,0
+2017-12-06,"1:02:47 PM","Richmond",1987-01-01,30.93,"Male","1","","","AdLib","0.483770,30.410497",NA,NA,NA,NA,1
+2017-12-06,"1:03:01 PM","Ellen",2006-02-01,11.84,"Female","1","","","AdLib","0.483850,30.410486",NA,NA,NA,NA,1
+2017-12-06,"1:30:41 PM","Wes",1997-06-01,20.51,"Male","1","","","AdLib","0.489114,30.415385",NA,NA,NA,NA,1
+2017-12-07,"4:12:18 PM","Basie",1983-01-01,34.93,"Male","1","Tree stump within big party","","AdLib","0.474596,30.408927",0,NA,NA,1,1
+2017-12-09,"8:21:11","Barron",2001-03-01,16.77,"Male","1","Stepped in something and tried to wipe foot and then sniffed ground 0.499800,30.421011","","Focal","0.499800,30.421011",NA,NA,NA,1,1
+2017-12-11,"11:21:49","Booker",2002-04-15,15.66,"Male","1","Ground where Leonora was sitting (1/2 swelling)","","Focal","",0,NA,NA,NA,0
+2017-12-16,"5:39:41 PM","Elton",2005-01-01,12.96,"Male","1","Ground; feces; walking quickly with miles Basie Peterson carter abrams and fisher","","AdLib","0.515771,30.411942",0,NA,NA,NA,1
+2017-12-17,"9:40:20 AM","Khutulun",2001-06-17,16.5,"Female","1","Ground; in party with cash Sarandon and jacki; eating Monodora","","AdLib","0.474377,30.424600",0,NA,NA,NA,1
+2017-12-19,"14:55:49","Cannonball",2007-07-30,10.39,"Male","1","Ground, then rest. 0.485122,30.422295","","Focal","0.485122,30.422295",NA,NA,NA,1,1
+2017-12-19,"15:03:30","Cannonball",2007-07-30,10.39,"Male","1","Not in party although chimps should be scattered nearby; ground : 0.484957,30.422247","","Focal","0.484957,30.422247",NA,NA,NA,1,1
+2018-01-09,"12:38:57 PM","Fricka",2011-12-12,6.08,"Female","1","Ground ; in party","","AdLib","0.491254,30.424261",0,NA,NA,NA,1
+2018-01-19,"10:45:43 AM","Septina",2012-10-01,5.3,"Female","1","In party ; ground","","AdLib","0.499382,30.406768",0,NA,NA,NA,1
+2018-01-21,"11:03:59 AM","Brownface",1966-01-01,52.05,"Male","1","Monodora on ground","","AdLib","0.488271,30.425083",NA,NA,NA,1,1
+2018-01-21,"11:04:18","Hicks",1997-01-01,21.05,"Male","1","Monodora on ground","","Focal","",NA,NA,NA,1,0
+2018-01-23,"4:32:22 PM","Garrison",1977-01-01,41.06,"Male","1","Ground maybe fresh feces - alone with rich bergl","","AdLib","0.487788,30.402683",0,NA,NA,NA,1
+2018-01-23,"16:32:55","RichBergl",2010-12-06,7.13,"Male","1","Ground maybe feces -","","Focal","",NA,NA,NA,NA,0
+2018-01-23,"4:56:32 PM","Garrison",1977-01-01,41.06,"Male","1","Traveling just with rich bergl","","AdLib","0.487640,30.406031",0,NA,NA,NA,1
+2018-01-30,"16:11:30","Booker",2002-04-15,15.79,"Male","1","Ground in party but walking alone 0.488426,30.427860","","Focal","0.488426,30.427860",NA,NA,NA,1,1
+2018-02-02,"7:40:10","Dylan",2006-07-26,11.52,"Male","1","With heater going between parties - ground","Hester","Focal","",0,NA,NA,NA,0
+2018-02-02,"7:41:55","Dylan",2006-07-26,11.52,"Male","1","0.489748,30.428767 ground with Hester out of party","Hester","Focal","0.489748,30.428767",0,NA,NA,NA,1
+2018-02-05,"5:04:34 PM","Richmond",1987-01-01,31.1,"Male","1","On big party; ground ; maybe looking for red colobus","","AdLib","0.476206,30.405622",0,NA,NA,1,1
+2018-02-20,"4:30:43 PM","Nelson",2007-01-01,11.14,"Male","1","Ground ; in party of central sw of m/11","","AdLib","0.482526,30.409870",0,NA,NA,1,1
+2018-02-20,"4:31:16 PM","Puccini",2008-05-01,9.81,"Male","1","Ground among central party","","AdLib","0.482415,30.409534",0,NA,NA,NA,1
+2018-02-20,"4:36:40 PM","Hicks",1997-01-01,21.14,"Male","1","Branch in ground ;","","AdLib","0.482415,30.409534",NA,NA,NA,NA,1
+2018-02-26,"1:50:07 PM","Garett",1989-01-01,29.15,"Male","1","Ground with bartok Marlene porkpie Django another party ahead","","AdLib","0.493312,30.415730",0,NA,NA,NA,1
+2018-03-01,"13:07:53","Mitchell",1999-01-01,19.16,"Male","1","Ground in party 0.480454,30.413876","","Focal","0.480454,30.413876",0,NA,NA,NA,1
+2018-03-03,"4:14:52 PM","Django",1997-01-01,21.17,"Male","1","Ground; traveling alone with porkpie","","AdLib","0.483263,30.416437",0,NA,NA,NA,1
+2018-03-03,"16:17:57","Porkpie",1994-01-01,24.17,"Male","1","Ground; North of j/11 with Django who sniffed another spot 5 min ago; 0.483579,30.416299","","Focal","0.483579,30.416299",0,NA,NA,1,1
+2018-03-04,"17:24:57","Dylan",2006-07-26,11.61,"Male","1","Ground in party 0.487567,30.414227","","Focal","0.487567,30.414227",0,NA,NA,NA,1
+2018-03-05,"9:24:43","YoYo",2006-01-01,12.17,"Male","1","Ground and swat at leaves","","Focal","",NA,NA,NA,1,0
+2018-03-08,"13:51:16","Fricka",2011-12-12,6.24,"Female","1","Ground around warburgia; maybe sniffing warburgia","","Focal","",NA,NA,NA,1,0
+2018-03-12,"14:12:31","Porkpie",1994-01-01,24.19,"Male","1","Ground in party ; rain ; vocalized then fed 0.477607,30.417520","","Focal","0.477607,30.417520",0,NA,1,NA,1
+2018-03-13,"4:40:21 PM","EttaJames",2011-03-09,7.01,"Female","1","Ground walking with damien between parties","","AdLib","0.490937,30.398463",0,NA,NA,NA,1
+2018-03-20,"2:37:09 PM","Porkpie",1994-01-01,24.21,"Male","1","Ground ; urine and feces; in party following Fitzgerald in estrus","","AdLib","0.483138,30.426679",0,NA,NA,1,1
+2018-03-21,"5:12:29 PM","Bosko",2003-01-01,15.22,"Male","1","Ground in party; feeding warburgia","","AdLib","0.477960,30.410196",0,NA,NA,1,1
+2018-03-31,"18:03:21","Lovano",1999-12-01,18.33,"Male","1","In party 0.486897,30.409634","","Focal","0.486897,30.409634",0,NA,NA,NA,1
+2018-04-06,"1:43:15 PM","Damien",2006-07-01,11.76,"Male","1","","","AdLib","0.505809,30.392832",NA,NA,NA,NA,1
+2018-04-06,"13:44:17","BillyBragg",2005-01-01,13.26,"Male","1","Ground after damien; party scattered 0.505809,30.392832","","Focal","0.505809,30.392832",NA,NA,NA,1,1
+2018-04-19,"2:42:55 PM","Richmond",1987-01-01,31.3,"Male","1","Ground alone then branch","","AdLib","0.483577,30.403019",1,NA,NA,NA,1
+2018-04-26,"2:05:00 PM","Cannonball",2007-07-30,10.74,"Male","1","Ground walking with party","","AdLib","0.484340,30.414481",0,NA,NA,NA,1
+2018-05-02,"6:46:42 PM","Abrams",1999-12-01,18.42,"Male","1","Ground 12:55","","AdLib","0.482902,30.416957",NA,NA,NA,NA,1
+2018-06-03,"12:14:55","Abrams",1999-12-01,18.51,"Male","1","0.489667,30.406178 ground","","Focal","0.489667,30.406178",NA,NA,NA,NA,1
+2018-06-03,"12:20:27 PM","Margaret",2006-07-01,11.92,"Female","1","","","AdLib","0.488872,30.406209",NA,NA,NA,NA,1
+2018-06-07,"10:38:15 AM","Elvira",2012-02-13,6.31,"Female","1","Trunk if small tree","","AdLib","0.508629,30.390750",NA,NA,NA,1,1
+2019-01-06,"12:23:47 PM","Holland",2010-07-20,8.47,"Male","1","Ground","","AdLib","0.499149,30.406296",NA,NA,NA,NA,1
+2019-06-02,"2:35:10 PM","Wes",1997-06-01,22,"Male","1","Ground wge audio toward centraers; garrison Rollins’s was hurcherson entwiga others va","","AdLib","0.428414,30.409385",0,1,NA,1,1
+2019-06-04,"5:15:23 PM","Wes",1997-06-01,22.01,"Male","1","Ground walking alone party scattered","","AdLib","0.449251,30.392779",1,NA,NA,NA,1
+2019-06-08,"17:58:08","BillyBragg",2005-01-01,14.43,"Male","1","00.48949,30.40866 ground walking with hutcherson others scattered","","Focal","0.48949,30.40866",0,NA,NA,NA,1
+2019-06-13,"12:39:28 PM","Garett",1989-01-01,30.44,"Male","1","Ground scattered feeding uvariopsis brownface carter Jackson. Jolie 00.49036,30.40693","","AdLib","0.49036,30.40693",0,NA,NA,NA,1
+2019-06-14,"8:12:56 AM","Garett",1989-01-01,30.45,"Male","1","Ground; Emmy Lou had passed—cycling though 0/1","","AdLib","00.49249,30.40743",0,NA,NA,1,1
+2019-06-14,"12:53:14 PM","Rollins",1986-01-01,33.45,"Male","1","And then joya sniff ground p.5/5.5 moving east just Rollins damien Etta and joya","","AdLib","00.49328,30.40470",0,NA,NA,NA,1
+2019-06-14,"1:00:03 PM","Rollins",1986-01-01,33.45,"Male","1","Branch of tree near mucuso —just resting : sniffed twice","","AdLib","00.49320,30.40573",NA,NA,NA,1,1
+2019-06-14,"2:27:13 PM","EttaJames",2011-03-09,8.27,"Female","1","Branches ; central had been last night","","AdLib","00.49284,30.40711",NA,NA,NA,1,1
+2019-07-25,"3:10:52 PM","Holland",2010-07-20,9.01,"Male","1","Ground party with Wayne and Buckner","","AdLib","0.494143,30.398868",0,NA,NA,NA,1
+2019-07-28,"10:53:12","Cannonball",2007-07-30,11.99,"Male","1","Ground 0.491175,30.423073 Jackson walking ahead","","Focal","0.491175,30.423073",0,NA,NA,NA,1
+2019-09-18,"5:27:25 PM","YoYo",2006-01-01,13.71,"Male","1","Ground ; with party of western males moving south from L/4.5","","AdLib","0.495013,30.412825",NA,NA,NA,NA,1
+2019-09-20,"16:57:11","YoYo",2006-01-01,13.72,"Male","1","0.489188,30.411808 sniff ground; Buckner an Holland nearby other party had gone head","","Focal","0.489188,30.411808",0,NA,NA,NA,1
+2019-09-22,"2:10:15 PM","YoYo",2006-01-01,13.72,"Male","1","Ground on within patrol I/13","","AdLib","0.479069,30.418462",NA,1,NA,NA,1
+2019-09-26,"5:03:21 PM","Cash",1993-01-01,26.73,"Male","1","Ground walking with party","","AdLib","0.474032,30.438188",0,NA,NA,NA,1
+2019-10-15,"12:24:34","Dylan",2006-07-26,13.22,"Male","1","Ground alone with only fisher behind 0.495101,30.424955","","Focal","0.495101,30.424955",NA,NA,NA,NA,1
+2019-10-24,"10:57:27","Evans",1996-01-01,23.81,"Male","1","Ground looks like something had rooted around 0.491292,30.428202","","Focal","0.491292,30.428202",NA,NA,NA,NA,1
+2019-10-26,"16:27:26","Cannonball",2007-07-30,12.24,"Male","1","Ground 0.488014,30.423045. Alone","","Focal","0.488014,30.423045",1,NA,NA,NA,1
+2019-10-26,"16:31:50","Cannonball",2007-07-30,12.24,"Male","1","Alone : ground 0.487480,30.423170","","Focal","0.487480,30.423170",1,NA,NA,NA,1
+2019-11-01,"12:06:33","Ava",2009-06-10,10.39,"Female","1","Dead infant Huxley","","Focal","",NA,NA,NA,1,0
+2021-06-19,"10:56:42 AM","Dylan",2006-07-26,14.9,"Male","1","Branch 0.483023 N, 30.434435 E","","Focal","0.483023 N, 30.434435 E",NA,NA,NA,NA,1
+2021-06-23,"5:32:22 PM","Carter",1990-01-01,31.47,"Male","1","Leaves; after rushing over toward chimp calls; eagle flew away (Sam and Izzi) ; Jarman and Eubanks and cannonball looking up into tree; others sniffing ground","","AdLib","0.483575,30.415448",0,NA,1,1,1
+2021-06-27,"10:50:09 AM","Nadine",2013-10-17,7.69,"Unknown","1","Juveniles female as traveling to me east ;","","AdLib","0.484979,30.428082",NA,NA,NA,1,1
+2021-06-28,"5:31:08 PM","Damien",2006-07-01,14.99,"Male","1","0.492543, 30.397262 climbed down tree ; Rollins was ahead… is he in sight?","","Focal","0.492543, 30.397262",NA,NA,NA,1,1
+2021-06-28,"6:14:26 PM","Holland",2010-07-20,10.94,"Male","1","In party with Buckner and Damien ; Holland eating Pterygota from ground","","AdLib","0.492866,30.398593",0,NA,NA,1,1
+2021-07-03,"4:37:51 PM","Porkpie",1994-01-01,27.5,"Male","1","Root / log; traveling alone 0.489584, 30.427752","","Focal","0.489584, 30.427752",1,NA,NA,NA,1
+2021-07-03,"4:39:00 PM","Porkpie",1994-01-01,27.5,"Male","1","0.489492, 30.427588","","Focal","0.489492, 30.427588",1,NA,NA,NA,1
+2021-07-05,"11:47:25 AM","Bach",2008-12-01,12.59,"Male","1","Fresh chino dung and urine","","AdLib","0.484076,30.414429",NA,NA,NA,1,1
+2021-07-08,"4:26:09 PM","Bach",2008-12-01,12.6,"Male","1","Chimp feces 0.477296, 30.411904","","Focal","0.477296, 30.411904",NA,NA,NA,1,1
+2021-07-16,"5:11:03 PM","Larson",2007-11-01,13.71,"Male","1","0.492716, 30.391651","","Focal","0.492716, 30.391651",NA,NA,NA,NA,1
+2021-07-17,"5:15:23 PM","Wes",1997-06-01,24.13,"Male","1","0.485238, 30.411718","","Focal","0.485238, 30.411718",NA,NA,NA,NA,1
+2021-07-18,"10:45:11 AM","Wes",1997-06-01,24.13,"Male","1","0.485964, 30.402979 in scattered party no one in view","","Focal","0.485964, 30.402979",NA,NA,NA,1,1
+2021-07-20,"11:48:11 AM","Carter",1990-01-01,31.55,"Male","1","Ground where Porkpie died","","AdLib","0.487945,30.429122",0,NA,NA,1,1
+2021-07-27,"3:20:31 PM","Bosko",2003-01-01,18.57,"Male","1","Leaves from whence amelia2 was standing in tree","","Focal","",NA,NA,NA,NA,0
+2021-08-07,"9:27:00 AM","Dylan",2006-07-26,15.03,"Male","1","0.487495 N, 30.432131 E","","Focal","0.487495, 30.432131",NA,NA,NA,NA,1
+2021-08-09,"1:22:42 PM","Cannonball",2007-07-30,14.03,"Male","1","Moved north with Garett Aretha Powell and lucrezia (?)","","AdLib","0.504705,30.428865",0,NA,NA,NA,1
+2021-08-12,"1:13:39 PM","Larson",2007-11-01,13.78,"Male","1","0.480189, 30.409530 in party but not western party he was with still east","","Focal","0.480189, 30.409530",0,NA,NA,NA,1
+2021-08-13,"4:33:03 PM","Joya",2011-08-15,10,"Female","1","In party of Yoyo Wayne Hutcherson Murray senta billy Bragg Anna Sanger Freddie and youths mvoing west after patrol to h/6-g.5/5","","AdLib","0.493115,30.414982",0,NA,NA,1,1
+2021-08-16,"10:44:34 AM","Carter",1990-01-01,31.62,"Male","1","Central patrol","","AdLib","0.489016,30.422093",NA,1,NA,NA,1
+2021-08-16,"10:45:56 AM","Brownface",1966-01-01,55.62,"Male","1","","Miles","AdLib","0.488932,30.421825",0,NA,NA,1,1
+2021-08-16,"11:01:24 AM","Morton",1984-01-01,37.62,"Male","1","","","AdLib","0.489546,30.419677",NA,NA,NA,NA,1
+2021-08-16,"12:05:22 PM","Brownface",1966-01-01,55.62,"Male","1","Patrol west","","AdLib","0.487574,30.417014",0,1,NA,NA,1
+2021-08-18,"10:52:40 AM","Damien",2006-07-01,15.13,"Male","1","Branch","","AdLib","0.485612,30.388864",NA,NA,NA,1,1
+2021-08-19,"4:43:35 PM","YoYo",2006-01-01,15.63,"Male","1","","","AdLib","0.495416,30.418483",NA,NA,NA,NA,1

@@ -61,6 +61,14 @@ sniffing$Age <- round(as.numeric((sniffing$Date - sniffing$DOB) / 365.25), 2)
 sniffing <- sniffing %>% relocate (Age, .before = Sex)
 ```
 
+Remove line that says to remove it (lines 189 and 190)
+
+```{r}
+sniffing <- sniffing[-c(189:190), ]
+
+sniffing <- sniffing[, !(colnames(sniffing) %in% c("Delete"))]
+```
+
 Now need to summarize data into a table and group by individual and calculate the mean age and total number of sniffs
 
 Columns will be: Individual, Mean Age, Sex, Total Sniffs
@@ -70,13 +78,13 @@ Columns will be: Individual, Mean Age, Sex, Total Sniffs
 sniffing$Behavior <- str_replace(sniffing$Behavior, "Sniff.Ground", "1")
 sniffing$Behavior <- str_replace(sniffing$Behavior, "Sniff", "1")
 # rename "behavior" column to be called "sniffs"
-sniffing <- sniffing %>% rename(Sniffs = Behavior)
+sniffing <- sniffing %>% rename(Sniff = Behavior)
 ```
 
 What if I just saved it as a new file and then did the summary on that
 
 ```{r}
-write.csv(sniffing, "/Data/sniffing_clean.csv", row.names=FALSE)
+write.csv(sniffing, "sniffing_clean.csv", row.names=FALSE)
 
 sniffing_clean <- read.csv("https://raw.githubusercontent.com/nwstetson/ChimpSniffing/main/Data/sniffing_clean.csv")
 ```
@@ -84,7 +92,7 @@ sniffing_clean <- read.csv("https://raw.githubusercontent.com/nwstetson/ChimpSni
 ```{r}
 sniff_summary <- sniffing_clean %>%
   group_by(Individual) %>%
-  summarize(Age = mean(Age, na.rm = T), Sex = first(Sex), TotalSniffs = sum(Sniffs, na.rm = T))
+  summarize(Age = mean(Age, na.rm = T), Sex = first(Sex), TotalSniffs = sum(Sniff, na.rm = T))
 ```
 
 wtf it worked
